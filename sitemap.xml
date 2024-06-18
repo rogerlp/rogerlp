@@ -94,7 +94,7 @@
 
   <url>
     <loc>https://www.taomilight.com/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,63 +102,77 @@
   
   <url>
     <loc>https://www.taomilight.com/tags/Welcome-TAOMI-Lighting/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.taomilight.com/tags/OTWL0001/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.taomilight.com/tags/OutDoor-Light/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.taomilight.com/tags/OTWL0001601/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.taomilight.com/tags/Outdoor-Light/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.taomilight.com/tags/OTWL0003/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.taomilight.com/tags/Human-Body-Induction/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.taomilight.com/tags/TAOMI-Light/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.taomilight.com/tags/Indoor-Light/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.taomilight.com/tags/OTWL0005/</loc>
+    <lastmod>2024-06-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.taomilight.com/tags/TAOMI-LIGHTING/</loc>
+    <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -167,35 +181,21 @@
   
   <url>
     <loc>https://www.taomilight.com/categories/Outdoor-Light/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.taomilight.com/categories/Welcome/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.taomilight.com/categories/Indoor-Light/</loc>
-    <lastmod>2024-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.taomilight.com/categories/Indoor-Light/OTWL0005/</loc>
-    <lastmod>2024-06-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.taomilight.com/categories/Indoor-Light/OTWL0005/TAOMI-LIGHTING/</loc>
-    <lastmod>2024-06-15</lastmod>
+    <lastmod>2024-06-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
